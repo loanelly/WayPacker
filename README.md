@@ -38,7 +38,7 @@
 
 ## 📄 License
 
-This project is licensed under the **GNU General Public License v3 (GPL-3.0)**. 
+This project is licensed under the <a href="https://github.com/loanelly/WayPacker/blob/main/LICENSE">**GNU General Public License v3 (GPL-3.0)**</a>. 
 You are free to use, study, and modify this software. However, any derivative works or copies **must** remain open-source and be distributed under the exact same GPL-3.0 license with proper attribution to the original author.
 
 ---
