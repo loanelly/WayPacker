@@ -1,4 +1,4 @@
-<img src="img/Logo%20variations/generated-image-2026-07-10-09-35-02.png" align="right" width="110px">
+<img src="/img/Logo%20variations/WayPacker1.1.0.png" align="right" width="110px">
 
 
 # WayPacker
